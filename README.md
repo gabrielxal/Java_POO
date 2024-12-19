@@ -1,4 +1,3 @@
 
-# Projetos em Java
 
-Este repositório contém projetos desenvolvidos em Java.
+# Este repositório contém um projeto que desenvolvi na Disciplina de Programação de Computadores
